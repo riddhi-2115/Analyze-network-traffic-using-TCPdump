@@ -2,7 +2,12 @@
 
 ## Objective:
 
-The objective of the "Analyze Network Traffic with TCPDump: Build a Logging Tool" is to teach how to use TCPDump, a powerful Linux networking utility, to capture and analyze TCP traffic. By the end of the project, participants will be able to create a logging tool using TCPDump, capture network packets, save them in dump files, and analyze the captured data to gain insights into network traffic1. This hands-on experience is designed to help learners develop skills in network traffic analysis, which are essential for roles in cybersecurity and network administration.
+The primary objective of this project is to empower learners with practical skills in network traffic analysis using TCPDump and to develop a logging tool. 
+
+- Master TCPDump: Gain proficiency in using TCPDump to capture and analyze network packets.
+- Implement Logging: Learn to create a custom logging tool to record and monitor network traffic efficiently.
+- Analyze Traffic Patterns: Develop the ability to interpret captured data, identify patterns, and troubleshoot network issues.
+- Enhance Network Security
 
 ## Skills learnt from project:
 
