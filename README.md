@@ -18,4 +18,4 @@ The primary objective of this project is to empower learners with practical skil
 5. Analyzing Network Data: Analyze the captured network data to understand the behavior and performance of network traffic.
 6. Building a Logging Tool: Develop a custom logging tool using TCPDump to monitor and log network activity.
 7. Interpreting TCP/IP Traffic: Gain insights into TCP/IP protocols and understand how to interpret the data captured.
-8 .Network Troubleshooting
+8. Network Troubleshooting
