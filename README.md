@@ -11,11 +11,11 @@ The primary objective of this project is to empower learners with practical skil
 
 ## Skills learnt from project:
 
-Installing TCPDump: Learn how to install and configure TCPDump on a Linux system.
-Capturing Network Traffic: Capture live network traffic using TCPDump.
-Filtering Packets: Use advanced filtering options to capture specific types of network traffic.
-Saving Packet Captures: Save captured network packets into dump files for later analysis.
-Analyzing Network Data: Analyze the captured network data to understand the behavior and performance of network traffic.
-Building a Logging Tool: Develop a custom logging tool using TCPDump to monitor and log network activity.
-Interpreting TCP/IP Traffic: Gain insights into TCP/IP protocols and understand how to interpret the data captured.
-Network Troubleshooting
+1. Installing TCPDump: Learn how to install and configure TCPDump on a Linux system.
+2. Capturing Network Traffic: Capture live network traffic using TCPDump.
+3. Filtering Packets: Use advanced filtering options to capture specific types of network traffic.
+4. Saving Packet Captures: Save captured network packets into dump files for later analysis.
+5. Analyzing Network Data: Analyze the captured network data to understand the behavior and performance of network traffic.
+6. Building a Logging Tool: Develop a custom logging tool using TCPDump to monitor and log network activity.
+7. Interpreting TCP/IP Traffic: Gain insights into TCP/IP protocols and understand how to interpret the data captured.
+8 .Network Troubleshooting
